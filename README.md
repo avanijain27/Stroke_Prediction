@@ -1,7 +1,8 @@
 # Stroke_Prediction
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. So, in this project we are predicting whether the patient is likely to get stroke or not depending on the input parameters. We adopt numerous machine learning concepts and algorithms in this project to predict the chances of stroke for a given patient. Machine Learning has solid connections to numerical improvement, which conveys strategies, hypothesis and application areas to the field. Machine learning is some of the time conflated with data mining where the latter subfield concentrates more on exploratory information analysis and is known as supervised learning. Use of machine learning and data science makes life easier in every aspect, using machine learning and predicting the outcomes whether the patient will get stroke or not, will save many lives of the humans. And machine learning is booming, and machine learning is firmly identified with (and frequently covers with) computational insights, which also focuses on prediction making through the use of technology.
 The main idea of this project is: - 
--In this project our aim is to predict whether the patient will get stroke or not.
--We are implementing different models like Naïve Bayes, Logistic regression and K- nearest neighbour for predicting the stroke.
--We are calculating precision, recall, F1 score and accuracy to validate the model. 
+
+- In this project our aim is to predict whether the patient will get stroke or not.
+- We are implementing different models like Naïve Bayes, Logistic regression and K- nearest neighbour for predicting the stroke.
+- We are calculating precision, recall, F1 score and accuracy to validate the model. 
 - We are also calculating average precision recall score and precision recall curve in this project, which would be used as the evaluating metrics.
